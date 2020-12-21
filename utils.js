@@ -12,7 +12,7 @@ const headers = {
 };
 // 隧道代理服务器host/ip和端口
 let proxy_ip = 'xxx';
-let proxy_port = 16818;
+let proxy_port = 16819;
 
 // 隧道id,密码 (可到会员中心查看)
 const mytid = 'xxx';
